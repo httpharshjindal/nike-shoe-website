@@ -57,7 +57,7 @@ html,body{
     left: 50%;
     transform: translate(-50%,-50%);
     
-    background-image: url(../sun.png);
+    background-image: url(sun.png);
     background-repeat: no-repeat;
     background-position: center;
     background-position-x:50%;
@@ -71,7 +71,7 @@ html,body{
     width: 75%;
     height: 100%;
     /* background-color: blue; */
-    background-image: url(../sun.png);
+    background-image: url(sun.png);
     background-repeat: no-repeat;
     background-position: center;
     background-position-x:50%;
@@ -244,7 +244,7 @@ html,body{
 #right #rbottom{
     height: 20%;
     width: 100%;
-    background-image: url(../shoe 3.png);
+    background-image: url(shoe3.png);
     background-size: cover;
     border-top:.1px solid gray;
     border-left:.1px solid gray;
